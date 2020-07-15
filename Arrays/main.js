@@ -21,3 +21,5 @@ console.log(string);
 console.log('push alien at position 2');
 string.splice(2,0,"alien");
 console.log(string);//O(n)
+
+console.log('Length of string array is '+string.length);
