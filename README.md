@@ -1,8 +1,54 @@
 # DS-Algo-JS
 Data structures and Algorithms in Javascript
 
-![](Images/1.png)
+# Big O Cheat Sheet
 
-![](Images/2.png)
+## -Big Os
+- O(1) Constant- no loops
+- O(log N) Logarithmic- usually searching algorithms have log n if they are sorted (Binary Search)
+- O(n) Linear- for loops, while loops through n items
+- O(n log(n)) Log Liniear- usually sorting operations
+- O(n^2) Quadratic- every element in a collection needs to be compared to ever other element. Two nested loops
+- O(2^n) Exponential- recursive algorithms that solves a problem of size N
+- O(n!) Factorial- you are adding a loop for every element
+- Iterating through half a collection is still O(n)
+- Two separate collections: O(a + b)
+- Two nested collections: O(a * b)
 
-![](Images/3.png)
+## -What can cause time in a function?-
+- Operations (+, -, *, /)
+- Comparisons (<, >, ==)
+- Looping (for, while)
+- Outside Function call (function())
+
+## -Rule Book
+- Rule 1: Always worst Case
+- Rule 2: Remove Constants
+- Rule 3: Different inputs should have different variables. O(a+b).
+A and B arrays nested would be O(a*b). 
+- Rule 4: Drop Non-dominant terms
+
+## -What causes Space complexity?-
+- Variables
+- Data Structures
+- Function Call
+- Allocations
+
+- Big-O Complexity Chart
+![alt text](Images/1.png)
+- Common Data Structure Operations
+![alt text](Images/2.png)
+- Array Sorting Algorithms
+![alt text](Images/3.png)
+
+![alt text](Images/4.png)
+
+![alt text](Images/5.png)
+
+![alt text](Images/6.png)
+
+![alt text](Images/7.png)
+
+![alt text](Images/8.png)
+
+![alt text](Images/9.png)
