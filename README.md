@@ -52,3 +52,15 @@ A and B arrays nested would be O(a*b).
 ![alt text](Images/8.png)
 
 ![alt text](Images/9.png)
+
+![alt text](Images/10.png)
+
+![alt text](Images/11.png)
+
+![alt text](Images/12.png)
+
+![alt text](Images/13.png)
+
+![alt text](Images/14.png)
+
+![alt text](Images/15.png)
