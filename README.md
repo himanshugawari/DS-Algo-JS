@@ -2,7 +2,7 @@
 
 Data structures and Algorithms in Javascript
 
-![Mind Map](https://coggle.it/diagram/W5E5tqYlrXvFJPsq/t/master-the-interview-click-here-for-course-link)
+[Mind Map!](https://coggle.it/diagram/W5E5tqYlrXvFJPsq/t/master-the-interview-click-here-for-course-link)
 
 # Big O Cheat Sheet
 
