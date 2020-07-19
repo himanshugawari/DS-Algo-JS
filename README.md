@@ -81,3 +81,13 @@ Data structures and Algorithms in Javascript
 ![alt text](Images/19.png)
 
 ![alt text](Images/20.png)
+
+![alt text](Images/21.png)
+
+![alt text](Images/22.png)
+
+![alt text](Images/23.png)
+
+![alt text](Images/24.png)
+
+![alt text](Images/25.png)
