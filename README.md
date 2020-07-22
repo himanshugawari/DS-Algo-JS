@@ -140,4 +140,6 @@ Data structures and Algorithms in Javascript
 
 ![alt text](Images/49.png)
 
+![alt text](Images/51.png)
+
 ![alt text](Images/50.gif)
