@@ -151,7 +151,7 @@ class BreadthFirstSearch {
 }
 
 function traverseInOrder(node, list) {
-  console.log(node.value);
+  //   console.log(node.value);
   if (node.left) {
     traverseInOrder(node.left, list);
   }
@@ -162,7 +162,7 @@ function traverseInOrder(node, list) {
   return list;
 }
 function traversePreOrder(node, list) {
-  console.log(node.value);
+  //   console.log(node.value);
   list.push(node.value);
   if (node.left) {
     traversePreOrder(node.left, list);
@@ -173,7 +173,7 @@ function traversePreOrder(node, list) {
   return list;
 }
 function traversePostOrder(node, list) {
-  console.log(node.value);
+  //   console.log(node.value);
   if (node.left) {
     traversePostOrder(node.left, list);
   }
@@ -193,9 +193,9 @@ console.log(myDfs.insert(20));
 console.log(myDfs.insert(170));
 console.log(myDfs.insert(15));
 console.log(myDfs.insert(1));
-console.log(myDfs.DFSInorder());
-console.log(myDfs.DFSPreorder());
-console.log(myDfs.DFSPostOrder());
+console.log("InOrder", myDfs.DFSInorder());
+console.log("PreOrder", myDfs.DFSPreorder());
+console.log("PostOrder", myDfs.DFSPostOrder());
 
 //         9
 //     4         20
