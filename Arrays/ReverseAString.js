@@ -24,7 +24,12 @@ const reverse3 = (str) => str.split("").reverse().join("");
 
 const reverse4 = (str) => [...str].reverse().join("");
 
+function reverse5(str) {
+  return str.split("").reverse().join("");
+}
+
 console.log(reverse("hello"));
 console.log(reverse2("hello"));
 console.log(reverse3("hello"));
 console.log(reverse4("hello"));
+console.log(reverse5("hello"));
